@@ -5,7 +5,6 @@ for _ in range(100):
     dado_1 = random.randint(1, 6)
     dado_2 = random.randint(1, 6)
     
-
     if dado_1 == dado_2:
         if dado_1 == dado_2:
             print("Han habido dos pares consecutivos")
